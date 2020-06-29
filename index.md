@@ -6,4 +6,5 @@ Roland Deschain ist der letzte überlebende Revolvermann von Mittwelt. Wie ein R
 ## Charakter Eigenschaften
 * Beruf: Guslinger
 * Mensch
-* ..
+* blabla
+* pff
