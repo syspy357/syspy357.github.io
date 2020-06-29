@@ -12,3 +12,5 @@ Roland Deschain ist der letzte überlebende Revolvermann von Mittwelt. Wie ein R
 ## Das ist einer seiner Sprüche
 > Irgendein Zitat, das ich nciht kenne
 > blablapff
+
+<img src=https://www.kingwiki.de/images/thumb/b/bf/Roland.jpg/354px-Roland.jpg/>
