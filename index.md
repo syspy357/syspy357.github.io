@@ -8,3 +8,7 @@ Roland Deschain ist der letzte überlebende Revolvermann von Mittwelt. Wie ein R
 * Mensch
 * blabla
 * pff
+
+## Das ist einer seiner Sprüche
+> Irgendein Zitat, das ich nciht kenne
+> blablapff
